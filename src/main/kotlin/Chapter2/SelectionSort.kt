@@ -1,3 +1,5 @@
+package Chapter2
+
 fun main() {
     val array = arrayListOf(0, 2, 5, 1, 8, 23, 31, 21, 93, 213, 31, 11, 1512, 231, 341, 516, 132, 322, 421, 643)
     print("sort: ${array.selectionSort()}")

@@ -1,3 +1,5 @@
+package Chapter5
+
 fun main() {
     checkVoter("James")
     checkVoter("Aiden")
